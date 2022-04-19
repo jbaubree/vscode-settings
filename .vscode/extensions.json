@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "antfu.iconify",
+    "antfu.unocss",
+    "antfu.vite",
+    "lokalise.i18n-ally",
+    "antfu.theme-vitesse",
+    "dbaeumer.vscode-eslint",
+    "huizhou.githd",
+    "johnsoncodehk.volar",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json",
+    "voorjaar.windicss-intellisense",
+    "WakaTime.vscode-wakatime"
+  ]
+}
