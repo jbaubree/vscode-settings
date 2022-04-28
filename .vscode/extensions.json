@@ -2,9 +2,7 @@
   "recommendations": [
     "antfu.iconify",
     "antfu.unocss",
-    "antfu.vite",
     "lokalise.i18n-ally",
-    "antfu.theme-vitesse",
     "dbaeumer.vscode-eslint",
     "huizhou.githd",
     "johnsoncodehk.volar",
